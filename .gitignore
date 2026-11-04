@@ -1,0 +1,26 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Model files
+models/
+
+# Generated files
+audio/
+temp/
+cache/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+app_before_custom_dropdowns.py
