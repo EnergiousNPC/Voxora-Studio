@@ -24,3 +24,5 @@ dist/
 Thumbs.db
 
 app_before_custom_dropdowns.py
+VoxoraStudio-Windows.zip
+release_test/
